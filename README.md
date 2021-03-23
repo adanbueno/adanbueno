@@ -1,5 +1,6 @@
-#hi everyone👋, i'm Adan Bueno
-##A Full Stack Developer focused on react with microservices
+# Hi everyone👋, i'm Adan Bueno
+
+## A Full Stack Developer focused on react with microservices
 
 [![Twitter Badge](https://img.shields.io/badge/-@AdanBueno1-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/AdanBueno1)](https://twitter.com/AdanBueno1) 
 [![Linkedin Badge](https://img.shields.io/badge/-Adan%20Bueno-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/adanbuenos/)](https://https://www.linkedin.com/in/adanbuenos/) 
