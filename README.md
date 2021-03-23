@@ -1,16 +1,14 @@
-### Hi there 👋
+#hi everyone👋, i'm Adan Bueno
+##A Full Stack Developer focused on react with microservices
 
-<!--
-**adanbueno/adanbueno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter Badge](https://img.shields.io/badge/-@dieegosf-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/AdanBueno1)](https://twitter.com/AdanBueno1) 
+[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/adanbuenos/)](https://https://www.linkedin.com/in/adanbuenos/) 
+[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adanbueno73@gmail.com)](mailto:adanbueno73@gmail.com)
 
-Here are some ideas to get you started:
+🚀Enthusiast of the best web and mobile development technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻Passionate about programming and constantly learning, because nothing beats good old persistence. 
+
+📚learning is continuous and there will always be a next level
+💻Nodejs, ReactJS, React Native, VueJS
+☁️AWS, Azure
